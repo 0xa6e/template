@@ -31,10 +31,10 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">BANGSAT</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    There's nothing like our bangsat!
     <br />
     <a href="https://github.com/0xa6e/BANGSAT"><strong>Explore the docs »</strong></a>
     <br />
