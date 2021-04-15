@@ -27,23 +27,23 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/0xa6e/BANGSAT">
+  <a href="https://github.com/0xa6e/template">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">BANGSAT</h3>
+  <h3 align="center">template</h3>
 
   <p align="center">
-    There's nothing like our bangsat!
+    There's nothing like our template!
     <br />
-    <a href="https://github.com/0xa6e/BANGSAT"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/0xa6e/template"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/0xa6e/BANGSAT">View Demo</a>
+    <a href="https://github.com/0xa6e/teamplate">View Demo</a>
     ·
-    <a href="https://github.com/0xa6e/BANGSAT/issues">Report Bug</a>
+    <a href="https://github.com/0xa6e/template/issues">Report Bug</a>
     ·
-    <a href="https://github.com/0xa6e/BANGSAT/issues">Request Feature</a>
+    <a href="https://github.com/0xa6e/template/issues">Request Feature</a>
   </p>
 </p>
 
